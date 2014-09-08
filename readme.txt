@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: button, button plugin, button widget, button generator, animated button, specials, deals, custom, customized, download, share
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -18,7 +18,10 @@ Add the widget to your site, or use the shortcode **[powr-button]** to add Butto
 POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
 <br>
 = Free Features =
-
+* Fully-customizable fonts, colors, borders, and more. 
+* Add custom animations, hover effects, and shadows.
+* Easily link to any page or social media account.
+* Share downloads, offer special deals, and drive traffic to your other sites.
 <br>
 = Upgrade to POWr Pro and: =
 * Eliminate all POWr logos and watermarks
