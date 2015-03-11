@@ -22,7 +22,6 @@ First, download, install, and activate POWr Button. Then drop the widget anywher
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-button-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Fully-customizable fonts, colors, borders, and more. 
 * Add custom animations, hover effects, and shadows.
@@ -31,9 +30,10 @@ First, download, install, and activate POWr Button. Then drop the widget anywher
 <br>
 = Upgrade ($1.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Button.
