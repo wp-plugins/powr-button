@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: responsive web design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, button, button plugin, button widget, button generator, animated button, specials, deals, custom, customized, download, share, iTunes button, facebook button, facebook like, facebook share, twitter tweet, twitter follow, pinterest follow, google button, button maker, html button, add button, link button, bookmark, email, floating button, google plus, post, repost, reddit, stumbleupon, tumblr, whatsapp, linkedin, digg, social share,
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,6 +90,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -104,5 +106,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
